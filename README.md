@@ -2,7 +2,7 @@
 #### Musica do Kahoot para aquele momento especial.*
 
 <p align="center">
-    <img src="./kahoot.jpeg"/ height="400">
+    <img src="src/images/kahoot.jpeg"/ height="400">
 </p>
 
 OBS: Para ouvir o som você precisa ter o node instalado.
